@@ -1,0 +1,355 @@
+{
+  "analyticsCode": "",
+  "pageLayout": "two-column",
+  "basics": {
+    "name": "Fayez Zouari",
+    "label": "Software Engineer",
+    "image": "/avatar.png",
+    "email": "fayez.zouari@insat.ucar.tn",
+    "url": "",
+    "summary": "Engineering student specializing in Automatics and Industrial Computing, with experience in AI, backend development, and edge computing technologies.",
+    "theme": "Orange",
+    "location": {
+      "address": "",
+      "city": "Tunis",
+      "countryCode": "TN",
+      "region": "Tunisia"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "icon": "mdi:linkedin",
+        "username": "fayez-zouari",
+        "url": "https://www.linkedin.com/in/fayez-zouari/"
+      },
+      {
+        "network": "GitHub",
+        "icon": "mdi:github",
+        "username": "fayezzouari",
+        "url": "https://github.com/fayezzouari"
+      }
+    ],
+    "beian": {
+      "mint": "赣ICP备2021005460号-1",
+      "police": "赣公网安备 36010302000349号"
+    }
+  },
+  "images": {
+    "intro": "Passionate about technology, AI, and innovative solutions.",
+    "list": []
+  },
+  "education": [
+    {
+      "institution": "National Institute of Applied Science and Technology (INSAT)",
+      "url": "",
+      "area": "Automatics and Industrial Computing",
+      "studyType": "Engineering Student",
+      "startDate": "2022-09-01",
+      "endDate": null
+    }
+  ],
+  "certificates": [
+      {
+        "name": "1st Prize - Orange x Hexabot AI Hackathon",
+        "date": "2024-12-01",
+        "url": "",
+        "issuer": "Orange x Hexabot"
+      },
+      {
+        "name": "2nd Prize - TSYP 12 Computer Science Challenge",
+        "date": "2024-12-01",
+        "url": "",
+        "issuer": "TSYP"
+      },
+      {
+        "name": "Team Leader - International Olympiad of Artificial Intelligence in Bulgaria",
+        "date": "2024-08-15",
+        "url": "",
+        "issuer": "Schweizer Jugend Forscht"
+      },
+      {
+        "name": "2nd Prize - AI National Summit (AINS) Hackathon",
+        "date": "2024-06-01",
+        "url": "",
+        "issuer": "AI National Summit"
+      },
+      {
+        "name": "Finalist - Eurobot in Nantes, France",
+        "date": "2024-06-08",
+        "url": "",
+        "issuer": "Planete Science"
+      },
+      {
+        "name": "Participant - International Swiss Talent Forum",
+        "date": "2024-02-21",
+        "url": "",
+        "issuer": "Schweizer Jugend Forscht"
+      }
+  ],
+  "work": [
+    {
+      "name": "Orange Digital Center",
+      "position": "AI Intern",
+      "location_type": "On-site",
+      "location": "TN",
+      "url": "https://meps.tn",
+      "startDate": "2024-07-01",
+      "endDate": null,
+      "summary": "Developing AI-driven monitoring and forecasting solutions for organic waste production.",
+      "highlights": [
+        "Created monitoring system for MEPS project tracking biogas and biofertilizer production",
+        "Generated forecast data for potential biogas production"
+      ],
+      "responsibilities": [
+        "Developed a monitoring system for the MEPS project tracking organic waste biogas and biofertilizer production from weekly reports with production details and improvement recommendations using Agentic workflow"
+      ],
+      "achievements": [
+        "Won the Intership Challenge called 'Orange Summmer Challenge 2024'"
+      ],
+      "skills": {
+        "Python": "simple-icons:python",
+        "AI": "ri:brain-line",
+        "Data Analysis": "mdi:chart-line",
+        "AWS": "simple-icons:amazonwebservices",
+        "Flask": "simple-icons:flask"
+
+      }
+    },
+    {
+      "name": "Edutech Solutions",
+      "position": "Backend Developer",
+      "location_type": "Remote",
+      "location": "TN",
+      "url": "",
+      "startDate": "2024-03-01",
+      "endDate": "2024-08-31",
+      "summary": "Developed web applications and embedded systems",
+      "highlights": [
+        "Created I-FEST2024 judges management website",
+        "Implemented automated project assignment system"
+      ],
+      "responsibilities": [
+        "Developing web applications using Django Rest Framework",
+        "Integrating cloud services"
+      ],
+      "achievements": [
+        "Successfully deployed website on Cloudflare"
+      ],
+      "skills": {
+        "Django": "simple-icons:django",
+        "Python": "simple-icons:python",
+        "Cloudflare": "simple-icons:cloudflare",
+        "REST API": "mdi:api"
+      }
+    },
+    {
+      "name": "Edutech Solutions",
+      "position": "Edge AI Developer",
+      "location_type": "On-site",
+      "location": "TN",
+      "url": "",
+      "startDate": "2023-08-01",
+      "endDate": "2023-09-30",
+      "summary": "Developed a device capable of reading electrical counters value using OCR",
+      "highlights": [
+        "Implemented Textract AWS OCR service in a rapsberry Pi0",
+        "Stored the data captured in Firebase Realtime Database",
+        "Developed Mobile App to visualize the data captured by the device",
+        "Developed a ReactJs dashboard to display users and each user electricity consumption"
+      ],
+      "responsibilities": [
+        "Flawless Flow of the architecture"
+      ],
+      "achievements": [
+        "Explored more AWS Services",
+
+        "Experienced Flutter functionalities"
+      ],
+      "skills": {
+        "Python": "simple-icons:python",
+        "AWS": "simple-icons:amazonwebservices",
+        "Firebase": "simple-icons:firebase",
+        "Flutter": "simple-icons:flutter",
+        "React": "simple-icons:react"
+
+      }
+    },
+    {
+      "name": "Satoripop",
+      "position": "Backend Development Intern",
+      "location_type": "On-site",
+      "location": "TN",
+      "url": "",
+      "startDate": "2020-07-01",
+      "endDate": "2020-09-30",
+      "summary": "Developed employee management web application",
+      "highlights": [
+        "Created comprehensive employee management website"
+      ],
+      "responsibilities": [
+        "Backend development using Laravel (PHP)"
+      ],
+      "achievements": [
+        "Gained valuable experience in web technologies"
+      ],
+      "skills": {
+        "PHP": "simple-icons:php",
+        "Laravel": "simple-icons:laravel",
+        "Backend Development": "mdi:web"
+      }
+    }
+  ],
+  "skills": [
+    {
+      "name": "Python",
+      "icon": "simple-icons:python",
+      "level": "Expert",
+      "keywords": [
+        "Backend Development",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "icon": "simple-icons:typescript",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Django",
+      "icon": "simple-icons:django",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "REST API"
+      ]
+    },
+    {
+      "name": "Docker",
+      "icon": "mdi:docker",
+      "level": "Intermediate",
+      "keywords": [
+        "Containerization",
+        "DevOps"
+      ]
+    },
+    {
+      "name": "Git",
+      "icon": "mdi:git",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration"
+      ]
+    },
+    {
+      "name": "Flutter",
+      "icon": "simple-icons:flutter",
+      "level": "Beginner",
+      "keywords": [
+        "Mobile Development",
+        "Cross-platform"
+      ]
+    },
+    {
+      "name": "NestJS",
+      "icon": "simple-icons:nestjs",
+      "level": "Beginner",
+      "keywords": [
+        "Backend Development",
+        "TypeScript Framework"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Arabic",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional working proficiency"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Technology",
+      "keywords": [
+        "Artificial Intelligence",
+        "Edge Computing",
+        "Robotics"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Fayez Zouari",
+      "reference": "Experienced software engineer with a passion for AI and innovative technological solutions."
+    }
+  ],
+  "projects": [
+    {
+      "name": "X2X: From Any Modality to Any Modality",
+      "image": "",
+      "isActive": true,
+      "description": "x2x is a set of plugins and helpers for the Hexastack platform that enables seamless conversion between different modalities. Whether it's speech, text, or vision, x2x makes it easy to transform and integrate various forms of input and output for enhanced communication and accessibility. Our mission is to bridge the gap between multiple channels and modalities, making it easier for AI to understand and interact with users in a variety of ways.",
+      "highlights": [
+        "1st Prize winner at Orange x Hexabot AI Hackathon"
+      ],
+      "url": "https://devpost.com/software/paranoid-android-submission",
+      "github": "https://github.com/KacemMathlouthi/X2X-Hexabot-Orange-Submission"
+    },
+    {
+      "name": "Smartshield",
+      "image": "",
+      "isActive": true,
+      "description": "Smartshield is a cutting-edge cybersecurity solution designed to monitor, analyze, and detect network anomalies in real-time. Our platform leverages powerful technologies, including machine learning and generative AI, to provide actionable insights into network traffic, helping organizations stay ahead of emerging threats. Through our innovative use of Docker, containerization, and scalable microservices, we aim to simplify the management of network security, making it more accessible and efficient.",
+      "highlights": [
+        "2nd Prize winner at TSYP 12 Computer Science Challenge",
+        "Advanced AI-driven cybersecurity solution"
+      ],
+      "url": "https://www.youtube.com/watch?v=2Nd6C_SpXak&feature=youtu.be",
+      "github": "https://github.com/Smartshield-INSAT"
+    },
+    {
+      "name": "ML.GUIDE",
+      "image": "",
+      "isActive": true,
+      "description": "ML.GUIDE is a Multi-LLM Agent System designed to help professionals define, evaluate, and solve machine learning problems. It leverages specialized AI agents for tasks like problem definition, data assessment, model recommendations, research, and code generation. Developed in 17 hours during the AI National Summit (AINS) hackathon on June 9, 2024. This project secured 🥈 the second place at the Artificial Intelligence National Summit hackathon organized by IEEE INSAT.",
+      "highlights": [
+        "2nd Prize winner at AI National Summit (AINS) Hackathon",
+        "Supports problem definition, data analysis, and code generation"
+      ],
+      "url": "https://github.com/fayezzouari/ML.GUIDE",
+      "github"
+      : "https://github.com/fayezzouari/ML.GUIDE"
+    },
+    {
+      "name": "YT Lecture Summary",
+      "image": "",
+      "isActive": true,
+      "description": "This project summarizes lecture videos from YouTube by extracting and processing the subtitles using a large language model (LLM) with the specified 'groq/llama-3.2-90b-vision-preview' model. It employs an 'agentic workflow' to automate the summarization process in chunks.",
+      "highlights": [
+
+      ],
+      "url": "https://github.com/fayezzouari/YT_Lecture_Summary",
+      "github": "https://github.com/fayezzouari/YT_Lecture_Summary"
+    },
+    {
+      "name": "Sarcasm Detection",
+      "image": "",
+      "isActive": true,
+      "description": "This project focuses on developing a sarcasm detection model inspired by a TensorFlow course. The repository contains datasets of news headlines labeled as sarcastic or not, as well as scripts for training and evaluating the model.",
+      "highlights": [
+        
+      ],
+      "url": "https://github.com/fayezzouari/sarcasm_detection_nlp",
+      "github": "https://github.com/fayezzouari/sarcasm_detection_nlp"
+    }
+  ]
+}
