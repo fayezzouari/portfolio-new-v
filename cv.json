@@ -36,7 +36,45 @@
   },
   "images": {
     "intro": "Passionate about technology, AI, and innovative solutions.",
-    "list": []
+    "list": [
+      {
+        "image": "https://i.imgur.com/MtWpUiU.png",
+        "alt": "TSYP",
+        "desc": "Orange x Hexabot AI Hackathon Winners"
+      },
+      {
+        "image": "https://i.imgur.com/FPRGhAg.jpeg",
+        "alt": "OSC",
+        "desc": "Orange Summer Challenge 2024 Winners"
+      },
+      {
+        "image": "https://i.imgur.com/cEHznEG.jpeg",
+        "alt": "IOAI",
+        "desc": "International Olympiad of AI Team Leader, Bulgaria"
+      },
+      {
+        "image": "https://i.imgur.com/jdFOdUW.jpeg",
+        "alt": "AINS 2024",
+        "desc": "AI National Summit 2024 2nd Place"
+      },
+
+      {
+        "image": "https://i.imgur.com/BQOXm8y.jpeg",
+        "alt": "Eurobot",
+        "desc": "Eurobot 2024 Finalists, France"
+      },
+      
+      {
+        "image": "https://i.imgur.com/SIFLI9R.jpeg",
+        "alt": "Sunset in Nanchang",
+        "desc": "CS Judge at I-FEST 2024"
+      },
+      {
+        "image": "https://i.imgur.com/Bon8hM0.jpeg",
+        "alt": "ISTF",
+        "desc": "ISTF 2024, Switzerland"
+      }
+    ]
   },
   "education": [
     {
