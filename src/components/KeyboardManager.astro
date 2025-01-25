@@ -97,7 +97,7 @@ const profilesInfo = profiles.map(({ network, url }) => {
       hotkey: 'ctrl+P',
       section: 'Actions',
       handler: () => {
-        window.print()
+        window.location.href = '/resume.pdf'
       },
     },
     ...data,

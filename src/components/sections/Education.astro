@@ -52,11 +52,13 @@ import { certificates } from '@cv'
       )
     }
   </ul>
+</Section>
 
+
+<Section className={Astro.props.className} title='Achievements and Participations'>
   {
     certificates.length > 0 && (
       <>
-        <h4>Certificates</h4>
         <ul class='space-y-4 py-3 print:space-y-0'>
           {certificates.map(({ name, date, issuer, url }) => {
             const certificateYear = new Date(date).getFullYear()
@@ -99,4 +101,5 @@ import { certificates } from '@cv'
       </>
     )
   }
+
 </Section>
