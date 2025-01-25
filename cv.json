@@ -302,6 +302,78 @@
         "Backend Development",
         "TypeScript Framework"
       ]
+    },
+    {
+      "name": "Firebase",
+      "icon": "simple-icons:firebase",
+      "level": "Beginner",
+      "keywords": [
+        "Cloud Services",
+        "Backend"
+      ]
+    },
+    {
+      "name": "MongoDB",
+      "icon": "simple-icons:mongodb",
+      "level": "Beginner",
+      "keywords": [
+        "NoSQL Database",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Django REST Framework",
+      "icon": "simple-icons:django",
+      "level": "Intermediate",
+      "keywords": [
+        "API Development",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Raspberry Pi",
+      "icon": "simple-icons:raspberrypi",
+      "level": "Beginner",
+      "keywords": [
+        "IoT",
+        "Single Board Computer"
+      ]
+    },
+    {
+      "name": "ROS",
+      "icon": "simple-icons:ros",
+      "level": "Beginner",
+      "keywords": [
+        "Robotics",
+        "Software Framework"
+      ]
+    },
+    {
+      "name": "CrewAI",
+      "icon": "simple-icons:openai",
+      "level": "Beginner",
+      "keywords": [
+        "AI Agents",
+        "Automation"
+      ]
+    },
+    {
+      "name": "Postgresql",
+      "icon": "simple-icons:postgresql",
+      "level": "Intermediate",
+      "keywords": [
+        "Database Management",
+        "Data Query"
+      ]
+    },
+    {
+      "name": "AWS",
+      "icon": "simple-icons:amazonaws",
+      "level": "Beginner",
+      "keywords": [
+        "Cloud Computing",
+        "Cloud Services"
+      ]
     }
   ],
   "languages": [
@@ -332,35 +404,50 @@
   ],
   "projects": [
     {
-      "name": "X2X: From Any Modality to Any Modality",
-      "image": "",
+      "name": "X2X",
+      "image": {
+        "url": "https://i.imgur.com/67znMZy.png",
+        "position": "container",
+        "dark": "https://i.imgur.com/67znMZy.png"
+      },
       "isActive": true,
       "description": "x2x is a set of plugins and helpers for the Hexastack platform that enables seamless conversion between different modalities. Whether it's speech, text, or vision, x2x makes it easy to transform and integrate various forms of input and output for enhanced communication and accessibility. Our mission is to bridge the gap between multiple channels and modalities, making it easier for AI to understand and interact with users in a variety of ways.",
       "highlights": [
-        "1st Prize winner at Orange x Hexabot AI Hackathon"
+        "1st Prize winner at Orange x Hexabot AI Hackathon",
+        "Implement agentic workflows using CrewAI and Mistral Large 2 LLM",
+        "Implemented Meta Prophet for production forecasts"
       ],
       "url": "https://devpost.com/software/paranoid-android-submission",
       "github": "https://github.com/KacemMathlouthi/X2X-Hexabot-Orange-Submission"
     },
     {
       "name": "Smartshield",
-      "image": "",
+      "image": {
+        "url": "https://i.imgur.com/Qogy2JG.png",
+        "position": "container",
+        "dark": "https://i.imgur.com/Qogy2JG.png"
+      },
       "isActive": true,
       "description": "Smartshield is a cutting-edge cybersecurity solution designed to monitor, analyze, and detect network anomalies in real-time. Our platform leverages powerful technologies, including machine learning and generative AI, to provide actionable insights into network traffic, helping organizations stay ahead of emerging threats. Through our innovative use of Docker, containerization, and scalable microservices, we aim to simplify the management of network security, making it more accessible and efficient.",
       "highlights": [
         "2nd Prize winner at TSYP 12 Computer Science Challenge",
-        "Advanced AI-driven cybersecurity solution"
+        "Advanced AI-driven cybersecurity solution for threat detection and incident reponse",
+        "Data Ensured optimal availability and scalability to the project"
       ],
       "url": "https://www.youtube.com/watch?v=2Nd6C_SpXak&feature=youtu.be",
       "github": "https://github.com/Smartshield-INSAT"
     },
     {
       "name": "ML.GUIDE",
-      "image": "",
+      "image": {
+        "url": "https://i.imgur.com/IbiHJE2.png",
+        "position": "container",
+        "dark": "https://i.imgur.com/IbiHJE2.png"
+      },
       "isActive": true,
-      "description": "ML.GUIDE is a Multi-LLM Agent System designed to help professionals define, evaluate, and solve machine learning problems. It leverages specialized AI agents for tasks like problem definition, data assessment, model recommendations, research, and code generation. Developed in 17 hours during the AI National Summit (AINS) hackathon on June 9, 2024. This project secured 🥈 the second place at the Artificial Intelligence National Summit hackathon organized by IEEE INSAT.",
+      "description": "ML.GUIDE is a Multi-LLM Agent System designed to help professionals define, evaluate, and solve machine learning problems. It leverages specialized AI agents for tasks like problem definition, data assessment, model recommendations, research, and code generation. This project secured 🥈 the second place at the Artificial Intelligence National Summit hackathon organized by IEEE INSAT.",
       "highlights": [
-        "2nd Prize winner at AI National Summit (AINS) Hackathon",
+        "2nd Prize at AI National Summit Hackathon",
         "Supports problem definition, data analysis, and code generation"
       ],
       "url": "https://github.com/fayezzouari/ML.GUIDE",
@@ -369,22 +456,30 @@
     },
     {
       "name": "YT Lecture Summary",
-      "image": "",
-      "isActive": true,
+      "image": {
+        "url": "https://i.imgur.com/9KpOcd6.png",
+        "position": "container",
+        "dark": "https://i.imgur.com/9KpOcd6.png"
+      },      "isActive": true,
       "description": "This project summarizes lecture videos from YouTube by extracting and processing the subtitles using a large language model (LLM) with the specified 'groq/llama-3.2-90b-vision-preview' model. It employs an 'agentic workflow' to automate the summarization process in chunks.",
       "highlights": [
-
+        "Learned and implemented RAG",
+        "Integrated Agentic Flow using CrewAI to ensure the effieciency of the prototype"
       ],
       "url": "https://github.com/fayezzouari/YT_Lecture_Summary",
       "github": "https://github.com/fayezzouari/YT_Lecture_Summary"
     },
     {
       "name": "Sarcasm Detection",
-      "image": "",
-      "isActive": true,
+      "image": {
+        "url": "https://i.imgur.com/B9QNmRv.png",
+        "position": "container",
+        "dark": "https://i.imgur.com/B9QNmRv.png"
+      },      "isActive": true,
       "description": "This project focuses on developing a sarcasm detection model inspired by a TensorFlow course. The repository contains datasets of news headlines labeled as sarcastic or not, as well as scripts for training and evaluating the model.",
       "highlights": [
-        
+        "Enhanced skills in NLP",
+        "Practiced through Tensorflow tutorials"
       ],
       "url": "https://github.com/fayezzouari/sarcasm_detection_nlp",
       "github": "https://github.com/fayezzouari/sarcasm_detection_nlp"

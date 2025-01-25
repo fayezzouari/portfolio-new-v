@@ -4,6 +4,9 @@ import { Icon } from "astro-icon/components";
 
 import { projects } from "@cv";
 import { Image } from "astro:assets";
+import TruncatedText from "./TruncatedText";
+
+
 ---
 
 <Section className={Astro.props.className} title="Projects">
@@ -73,10 +76,11 @@ import { Image } from "astro:assets";
                   </a>
                 )}
               </div>
-
-              <p class={`relative z-10 py-3 text-sm text-skin-base`}>
-                {description}
-              </p>
+              <TruncatedText 
+                    client:load 
+                    description={description} 
+                    maxLength={100} 
+                  />
               <ul class={`relative z-10 mt-1 text-sm text-skin-inverted`}>
                 {highlights.map((highlight) => {
                   return <li>{highlight}</li>;
