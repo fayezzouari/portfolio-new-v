@@ -4,10 +4,13 @@ import tailwind from "@astrojs/tailwind";
 import astroIcon from 'astro-icon';
 import vercel from "@astrojs/vercel/static";
 import playformCompress from "@playform/compress";
+import react from '@astrojs/react';
 
 // https://astro.build/config
 export default defineConfig({
   integrations: [
+    react(),
+    
     tailwind(),
     astroIcon({
       include: {
