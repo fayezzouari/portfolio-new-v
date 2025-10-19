@@ -126,6 +126,83 @@
   ],
   "work": [
     {
+      "name": "Vectors",
+      "position": "Junior Software Developer",
+      "location_type": "Remote",
+      "location": "",
+      "url": "",
+      "startDate": "2025-10-01",
+      "endDate": null,
+      "summary": "Collaborating to enhance and optimize Vectors’ products for Atlassian users.",
+      "responsibilities": [
+        "Collaborating to enhance and optimize Vectors’ products for Atlassian users."
+      ],
+      "skills": {
+        "TypeScript": "simple-icons:typescript",
+        "AI": "ri:brain-line"
+      }
+    },
+        {
+      "name": "Google Summer of Code",
+      "position": "AI Software Development Contributor",
+      "location_type": "Remote",
+      "location": "",
+      "url": "",
+      "startDate": "2025-05-01",
+      "endDate": "2025-09-30",
+      "summary": "Developed BeagleMind CLI and BeagleMind Web Platform to provide AI-assisted queries on BeagleBoard documentation with local and cloud inference support.",
+      "highlights": [
+        "Developed BeagleMind CLI, a Python-based tool enabling AI-assisted queries on BeagleBoard documentation with local and cloud inference support.",
+        "Built BeagleMind Web Platform with RAG-powered responses, conversation history, and GitHub documentation ingestion for contributor onboarding."
+      ],
+      "responsibilities": [
+        "Implemented CLI and web interfaces for AI-assisted documentation search and onboarding.",
+        "Integrated RAG pipelines and GitHub documentation ingestion for improved developer experience."
+      ],
+      "skills": {
+        "Python": "simple-icons:python",
+        "AI": "ri:brain-line"
+      }
+    },
+    {
+      "name": "Focus Corporation",
+      "position": "AI Software Development Intern",
+      "location_type": "On-site",
+      "location": "",
+      "url": "",
+      "startDate": "2025-08-01",
+      "endDate": "2025-08-31",
+      "summary": "Developed a testing requirements generator for car HMI infotainment systems, leveraging Retrieval-Augmented Generation (RAG) and Milvus vector store.",
+      "responsibilities": [
+        "Designed and implemented a testing requirements generator for car HMI infotainment systems using RAG and Milvus.",
+        "Integrated vector search and prompt pipelines to produce structured test cases for QA teams."
+      ],
+      "skills": {
+        "Python": "simple-icons:python",
+        "AI": "ri:brain-line",
+        "Milvus": "simple-icons:milvus"
+      }
+    },
+    {
+      "name": "OORB - Open Organic Robots",
+      "position": "AI Software Development Intern",
+      "location_type": "Remote",
+      "location": "",
+      "url": "",
+      "startDate": "2025-07-01",
+      "endDate": "2025-07-31",
+      "summary": "Developed an AI assistant for ROS documentation and published oorb-cli on PyPI, enabling tool-call powered queries via the command line.",
+      "responsibilities": [
+        "Built an AI assistant to query and navigate ROS documentation.",
+        "Packaged and published oorb-cli to PyPI to enable command-line, tool-call powered interactions."
+      ],
+      "skills": {
+        "ROS": "simple-icons:ros",
+        "Python": "simple-icons:python"
+      }
+    },
+
+    {
       "name": "Orange Digital Center",
       "position": "AI Intern",
       "location_type": "On-site",
@@ -150,65 +227,6 @@
         "Data Analysis": "mdi:chart-line",
         "AWS": "simple-icons:amazonwebservices",
         "Flask": "simple-icons:flask"
-
-      }
-    },
-    {
-      "name": "Edutech Solutions",
-      "position": "Backend Developer",
-      "location_type": "Remote",
-      "location": "TN",
-      "url": "",
-      "startDate": "2024-03-01",
-      "endDate": "2024-08-31",
-      "summary": "Developed web applications and embedded systems",
-      "highlights": [
-        "Created I-FEST2024 judges management website",
-        "Implemented automated project assignment system"
-      ],
-      "responsibilities": [
-        "Developing web applications using Django Rest Framework",
-        "Integrating cloud services"
-      ],
-      "achievements": [
-        "Successfully deployed website on Cloudflare"
-      ],
-      "skills": {
-        "Django": "simple-icons:django",
-        "Python": "simple-icons:python",
-        "Cloudflare": "simple-icons:cloudflare",
-        "REST API": "mdi:api"
-      }
-    },
-    {
-      "name": "Edutech Solutions",
-      "position": "Edge AI Developer",
-      "location_type": "On-site",
-      "location": "TN",
-      "url": "",
-      "startDate": "2023-08-01",
-      "endDate": "2023-09-30",
-      "summary": "Developed a device capable of reading electrical counters value using OCR",
-      "highlights": [
-        "Implemented Textract AWS OCR service in a rapsberry Pi0",
-        "Stored the data captured in Firebase Realtime Database",
-        "Developed Mobile App to visualize the data captured by the device",
-        "Developed a ReactJs dashboard to display users and each user electricity consumption"
-      ],
-      "responsibilities": [
-        "Flawless Flow of the architecture"
-      ],
-      "achievements": [
-        "Explored more AWS Services",
-
-        "Experienced Flutter functionalities"
-      ],
-      "skills": {
-        "Python": "simple-icons:python",
-        "AWS": "simple-icons:amazonwebservices",
-        "Firebase": "simple-icons:firebase",
-        "Flutter": "simple-icons:flutter",
-        "React": "simple-icons:react"
 
       }
     },
